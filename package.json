@@ -1,8 +1,8 @@
 {
-    "title": "Clean Blog Jekyll",
-    "name": "startbootstrap-clean-blog-jekyll",
+    "title": "icebear blog",
+    "name": "icebear-engineer-blog",
     "version": "4.0.12",
-    "description": "Clean Blog is a Medium inspired blog theme for Bootstrap.",
+    "description": "my engineering blog",
     "keywords": [
         "css",
         "sass",
@@ -11,19 +11,19 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/themes/clean-blog-jekyll",
+    "homepage": "https://baoanh1310.github.io",
     "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/baoanh1310/baoanh1310.github.io/issues",
+        "email": "dataholicguy@gmail.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "icebear.engineer",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "baoanh1310"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll.git"
+        "url": "https://github.com/baoanh1310/baoanh1310.github.io"
     },
     "dependencies": {
         "bootstrap": "4.6.0",
